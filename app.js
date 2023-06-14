@@ -3,7 +3,6 @@
 const express=require("express");
 const https = require('node:https');
 const bodyParser=require("body-parser");
-const { json } = require("body-parser");
 
 const app=express();
 
